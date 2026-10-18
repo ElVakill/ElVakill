@@ -58,13 +58,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ElVakill&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=3FB9A6&icon_color=3FB9A6&text_color=8b949e" alt="GitHub stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=ElVakill&hide_border=true&theme=transparent&ring=3FB9A6&fire=3FB9A6&currStreakLabel=3FB9A6&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak">
-</p>
-
 ## 📫 Contact
 
 <p>
