@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Rapha%C3%ABl%20Slavik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20student%20%C2%B7%20Formula%20Student%20%C2%B7%20Mobile%20developer&descAlignY=60&descSize=16" alt="Raphaël Slavik" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:c31432,50:e8315f,100:ff8c42&height=200&section=header&text=Rapha%C3%ABl%20Slavik&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20student%20%C2%B7%20Formula%20Student%20%C2%B7%20Mobile%20developer&descAlignY=62&descSize=15" alt="Raphaël Slavik" width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/ElVakill">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3FB9A6&center=true&vCenter=true&width=520&lines=Engineering+student+%F0%9F%8E%93;Vehicle+Dynamics+%40+ENSMA+Racing+Team+%F0%9F%8F%8E%EF%B8%8F;Creator+of+Personae+%F0%9F%93%B1;Building+things+end+to+end" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF6F61&center=true&vCenter=true&width=520&lines=Engineering+student+%F0%9F%8E%93;Vehicle+Dynamics+%40+ENSMA+Racing+Team+%F0%9F%8F%8E%EF%B8%8F;Creator+of+Personae+%F0%9F%93%B1;Building+things+end+to+end" alt="Typing SVG">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://personagame.fr"><img src="https://img.shields.io/badge/Personae-personagame.fr-3FB9A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personae"></a>
-  <a href="https://github.com/ENSMA-Racing-Team"><img src="https://img.shields.io/badge/ENSMA_Racing_Team-Formula_Student-203a43?style=for-the-badge&logo=github&logoColor=white" alt="ENSMA Racing Team"></a>
-  <img src="https://img.shields.io/badge/Based_in-France-2c5364?style=for-the-badge" alt="France">
+  <a href="https://personagame.fr"><img src="https://img.shields.io/badge/Personae-personagame.fr-E8315F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personae"></a>
+  <a href="https://github.com/ENSMA-Racing-Team"><img src="https://img.shields.io/badge/ENSMA_Racing_Team-Formula_Student-C31432?style=for-the-badge&logo=github&logoColor=white" alt="ENSMA Racing Team"></a>
+  <img src="https://img.shields.io/badge/Based_in-France-FF8C42?style=for-the-badge" alt="France">
 </p>
 
 ---
@@ -61,7 +61,7 @@
 ## 📫 Contact
 
 <p>
-  <a href="https://personagame.fr"><img src="https://img.shields.io/badge/Website-personagame.fr-3FB9A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://personagame.fr"><img src="https://img.shields.io/badge/Website-personagame.fr-E8315F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://github.com/ElVakill"><img src="https://img.shields.io/badge/GitHub-ElVakill-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -79,5 +79,5 @@ La Formula Student est une compétition internationale d'ingénierie où des éq
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:c31432,50:e8315f,100:ff8c42&height=100&section=footer" alt="" width="100%">
 </p>
