@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:c31432,50:e8315f,100:ff8c42&height=200&section=header&reversal=true&text=Rapha%C3%ABl%20Slavik&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engineering%20student%20%C2%B7%20Formula%20Student%20%C2%B7%20Mobile%20developer&descAlignY=56&descSize=15" alt="Raphaël Slavik" width="100%">
+  <img src="assets/header.svg" alt="Raphaël Slavik" width="100%">
 </p>
 
 <p align="center">
@@ -75,5 +75,5 @@ La Formula Student est une compétition internationale d'ingénierie où des éq
 </details>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff8c42,50:e8315f,100:c31432&height=110&section=footer&reversal=true" alt="" width="100%">
+  <img src="assets/footer.svg" alt="" width="100%">
 </p>
