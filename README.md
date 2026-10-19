@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF6F61&center=true&vCenter=true&width=520&lines=Engineering+student;Vehicle+Dynamics+%40+ENSMA+Racing+Team;Creator+of+Personae;Building+things+end+to+end" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF6F61&center=true&vCenter=true&width=520&lines=Engineering+student;Vehicle+Dynamics+%40+ENSMA+Racing+Team;Electronics+%26+Systems+%40+ENSMA+Racing+Team;Creator+of+Personae;Building+things+end+to+end" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ## About me
 
 - **Engineering student** in France
-- Member of the **ENSMA Racing Team** (Formula Student), in the **Vehicle Dynamics** division
+- Member of the **ENSMA Racing Team** (Formula Student), in the **Vehicle Dynamics** and **Electronics & Systems** divisions
 - Creator of **Personae**, a social deduction game for iOS and Android
 - I enjoy taking a project from the first idea to something people actually use
 
@@ -39,7 +39,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>Formula Student</h3>
-      <p>Formula Student is an international engineering competition in which university teams design, build and race their own single-seater race car, judged on both engineering and on-track performance. I'm part of the <b>ENSMA Racing Team</b>, working on vehicle dynamics.</p>
+      <p>Formula Student is an international engineering competition in which university teams design, build and race their own single-seater race car, judged on both engineering and on-track performance. I'm part of the <b>ENSMA Racing Team</b>, working in both the vehicle dynamics and the electronics &amp; systems divisions.</p>
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@
 
 <br>
 
-Étudiant ingénieur en France, membre du pôle **Dynamique Véhicule** de l'**ENSMA Racing Team** (Formula Student).
+Étudiant ingénieur en France, membre des pôles **Dynamique Véhicule** et **Électronique & Systèmes** de l'**ENSMA Racing Team** (Formula Student).
 
 Créateur de **Personae**, un jeu de déduction sociale gratuit sur iOS et Android : entre amis, chacun répond anonymement à des questions sur les autres et découvre ce que le groupe pense de lui.
 
